@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ProjectFruitShop/static/css/main.b30be24a.css",
-    "main.js": "/ProjectFruitShop/static/js/main.eb9f3248.js",
+    "main.js": "/ProjectFruitShop/static/js/main.168f4fea.js",
     "static/js/453.a0c2ac2a.chunk.js": "/ProjectFruitShop/static/js/453.a0c2ac2a.chunk.js",
     "index.html": "/ProjectFruitShop/index.html",
     "main.b30be24a.css.map": "/ProjectFruitShop/static/css/main.b30be24a.css.map",
-    "main.eb9f3248.js.map": "/ProjectFruitShop/static/js/main.eb9f3248.js.map",
+    "main.168f4fea.js.map": "/ProjectFruitShop/static/js/main.168f4fea.js.map",
     "453.a0c2ac2a.chunk.js.map": "/ProjectFruitShop/static/js/453.a0c2ac2a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b30be24a.css",
-    "static/js/main.eb9f3248.js"
+    "static/js/main.168f4fea.js"
   ]
 }
